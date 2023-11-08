@@ -1,7 +1,8 @@
 ### Olá, eu sou Bruno Costa, criador de conteúdo de programação e tecnologia!
 
-- 🔭 Trabalho com Front-end
-- 🌱 Estudando Typescript
+- Vivendo atualmente no Brasil e trabalhando remotamente.
+- Estudando Typescript
+- Aberto a novas oportunidades de trabalho!
 
 <div>
 </a>
