@@ -3,7 +3,11 @@
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando Typescript
 
-
+<div>
+</a>
+ <a href = "brunocostah19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+            
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCosta19&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCosta19&layout=pie)](https://github.com/BrunoCosta19/github-readme-stats)
