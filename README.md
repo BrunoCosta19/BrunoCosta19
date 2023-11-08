@@ -1,4 +1,4 @@
-### Olá, eu sou Bruno Costa, criador de conteúdo de programação e tecnologia!
+### Olá, eu sou Bruno Costa!
 
 - Vivendo atualmente no Brasil e trabalhando remotamente.
 - Estudando Typescript
